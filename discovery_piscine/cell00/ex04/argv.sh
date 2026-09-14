@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ "$#" -ne 0 ]
     then
         for var in "$@"; do
