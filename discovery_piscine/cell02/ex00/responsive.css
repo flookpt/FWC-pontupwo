@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 50%;
+    border: 1px solid #666;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 24px;
+}
