@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.card {
+  border: none;
+  margin: 40px auto;
+  width: 220px;
+  background-color: white;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.card td {
+  border: none;
+  padding: 10px;
+}
+
+.avatar {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.login {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.desc {
+  color: gray;
+  font-size: 14px;
+}
+
+.socials img {
+  width: 20px;
+  margin: 0 5px;
+}
+
+.contact-btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
